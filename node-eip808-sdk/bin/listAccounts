@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+// bin/listAccounts
+
+var main = require('../lib/main');
+
+main.listAccounts();
